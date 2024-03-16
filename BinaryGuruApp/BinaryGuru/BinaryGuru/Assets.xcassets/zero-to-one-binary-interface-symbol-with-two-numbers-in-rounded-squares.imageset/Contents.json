@@ -1,0 +1,24 @@
+{
+  "images" : [
+    {
+      "filename" : "zero-to-one-binary-interface-symbol-with-two-numbers-in-rounded-squares.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "template-rendering-intent" : "original"
+  }
+}
